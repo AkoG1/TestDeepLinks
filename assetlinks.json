@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ge.extra",
+    "sha256_cert_fingerprints":
+    ["88:39:CD:2B:18:1A:48:C2:6C:C4:87:2A:21:10:75:D5:99:56:AE:6A:A8:04:5C:5E:C1:B1:A7:7D:D8:CC:11:95"]
+  }
+}]
